@@ -32,13 +32,14 @@ control rocket league bot with lego EV3
 3) When your console get spammed with data or your EV3 display shows 'Connected' you are good to go!
 
 **Stopping**  
-1) The order doesnt matter, but id turn off the program on the EV3 first, then shut down RLBotGUI.
+1) The order doesnt matter, but i'd turn off the program on the EV3 first, then shut down RLBotGUI.
 
 # Help
 If your EV3 brick doesn't connect to your pc:  
 - You might have entered the wrong PORT or HOST (check port and host in `ev3.py` and `ExampleBot.py`)  
-- Your sensors might not be set up correct (check inputs and sensors in `ev3.py`)  
+- Your sensors might not be set up correctly (check inputs and sensors in `ev3.py`)  
 - Your EV3 or computer might not have a stable internet connection.  
+
 If you don't receive any in the RLBotGUI at all, you should run `ev3.py` on your computer with the EV3 connected so the errors will show up on the pc so you can fix them.
 
 # Caveats
